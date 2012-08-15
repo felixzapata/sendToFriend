@@ -1,0 +1,1 @@
+Realiza el envio de la pagina a un amigo indicado mediante email devolviendo una confirmacion de envio en la url
